@@ -1,0 +1,4 @@
+[12-Nov-2020 14:24:56 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/t0gakal41dca/public_html/hamali.vnragri.co.in/api/login.php on line 97
+[02-Dec-2020 22:00:04 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/t0gakal41dca/public_html/hamali.vnragri.co.in/db/db_connect.php on line 141
+[02-Dec-2020 22:00:21 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/t0gakal41dca/public_html/hamali.vnragri.co.in/db/db_connect.php on line 141
+[02-Dec-2020 22:00:24 Asia/Calcutta] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/t0gakal41dca/public_html/hamali.vnragri.co.in/db/db_connect.php on line 141

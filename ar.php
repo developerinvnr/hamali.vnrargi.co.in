@@ -1,0 +1,8 @@
+<?php
+
+$_POST['record']	=	'{allWorklistlist=[{"workcode":"10","qty":"10","remark1":"---Material---","remark2":"-Product\/Method-","narration":"Weighing of Raw Seeds  ","workslipno":"4","id":"4","supervisorid":"2","hgid":"1","remark":"","startdatetime":"15-03-2020 10:09 PM","enddatetime":"15-03-2020 22:10"},{"workcode":"40","qty":"23","remark1":"---Material---","remark2":"-Product\/Method-","narration":"Shifting place to place  of Process Seeds from Machine to side ","workslipno":"4","id":"4","supervisorid":"2","hgid":"1","remark":"","startdatetime":"15-03-2020 10:09 PM","enddatetime":"15-03-2020 22:10"},{"workcode":"53","qty":"50","remark1":"---Material---","remark2":"","narration":"Contract Work of Hamali for 8 hrs   ","workslipno":"4","id":"4","supervisorid":"2","hgid":"1","remark":"","startdatetime":"15-03-2020 10:09 PM","enddatetime":"15-03-2020 22:10"},{"workcode":"12","qty":"10","remark1":"","remark2":"-Product\/Method-","narration":"Weighing of Packed Seeds  ","workslipno":"5","id":"5","supervisorid":"2","hgid":"1","remark":"hello remark","startdatetime":"15-03-2020 10:10 PM","enddatetime":"15-03-2020 22:11"},{"workcode":"23","qty":"23","remark1":"","remark2":"","narration":"Stitching of PP Bags or Gunny Bag by Bag closure machine ","workslipno":"5","id":"5","supervisorid":"2","hgid":"1","remark":"hello remark","startdatetime":"15-03-2020 10:10 PM","enddatetime":"15-03-2020 22:11"}], supervisorid=2}';
+
+$records	=	json_decode($_POST['record'],true);
+
+echo print_r($records);
+?>

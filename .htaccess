@@ -1,0 +1,7 @@
+Options +FollowSymLinks
+
+RewriteEngine On
+RewriteRule ^vnr_(.*)$ $1.php
+RewriteRule ^home$ index.php
+
+

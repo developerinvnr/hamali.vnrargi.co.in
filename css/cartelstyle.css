@@ -1,0 +1,115 @@
+/* CSS Document */
+/*
+tr:hover 
+{
+background-color:#DDDDFF;
+}
+*/
+#lab
+{
+font-size:12px;
+line-height:12px;
+}
+#req
+{
+font-size:10px;
+color:green;
+line-height:0px;
+}
+
+.btn
+{
+padding-top:0px;
+padding-bottom:0px;
+}
+
+#forbutton
+{
+line-height:20px;
+}
+
+#pagesize
+{
+width:50px; display:inline; padding:0px; height:25px; font-size:13px;
+}
+
+#pagesearch
+{
+width:200px; display:inline; padding:0px; height:25px; font-size:13px; font-weight:normal; border-radius:10px; text-indent:30px;
+}
+
+#tablehead
+{
+display:inline; font-weight:normal;
+}
+
+#tableheadsearch
+{
+display:inline; float:right; font-weight:normal;
+}
+
+#tablerecords td, th
+{
+padding:3px;
+}
+
+#orderby
+{
+width:auto;
+display:inline; padding:0px; height:25px;
+font-size:13px;
+}
+
+
+#categorywise
+{
+width:auto;
+display:inline; padding:0px; height:25px;
+font-size:13px;
+}
+
+#approvestatus
+{
+width:auto;
+display:inline; padding:0px; height:25px;
+font-size:13px;
+}
+
+#citywise
+{
+width:auto;
+display:inline; padding:0px; height:25px;
+font-size:13px;
+}
+
+#doctorcat
+{
+width:auto;
+display:inline; 
+padding:0px;
+height:25px;
+font-size:13px;
+vertical-align:text-top;
+}
+
+.selectbx
+{
+width:auto;
+display:inline; 
+padding:0px;
+height:25px;
+font-size:13px;
+vertical-align:text-top;
+}
+
+
+#action
+{
+width:30px;
+}
+
+.pagination li a
+{
+cursor:pointer;
+}
+
